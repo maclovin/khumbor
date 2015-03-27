@@ -10,7 +10,7 @@
 		"name": "MacLovin",
 		"url" : "https://www.linkedin.com/in/muriloprestes"
 	},
-	"readme": "Client Thumbor for Node JS powered by Kanui",
+	"readme": "Khumbor is a new Thumbor client for Node JS",
 	"readmeFilename": "README.md",
 	"license": "MIT"
 }

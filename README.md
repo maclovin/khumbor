@@ -1,7 +1,7 @@
 
 # Khumbor (Thumbor url builder)
 
-### Khumbor is a Thumbor client for Node JS powered by [Kanui](http://https://github.com/Kanui/QueroSerKanui)
+### Khumbor is a new Thumbor client for Node JS
 
 _(A improved version of [https://github.com/PolicyMic/thumbor](https://github.com/PolicyMic/thumbor))_
 
