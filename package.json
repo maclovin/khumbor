@@ -1,0 +1,16 @@
+{
+	"name": "khumbor",
+	"version": "0.1.0",
+	"main": "index.js",
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/maclovin/khumbor.git"
+	},
+	"author": {
+		"name": "MacLovin",
+		"url" : "https://www.linkedin.com/in/muriloprestes"
+	},
+	"readme": "Client Thumbor for Node JS powered by Kanui",
+	"readmeFilename": "README.md",
+	"license": "MIT"
+}
